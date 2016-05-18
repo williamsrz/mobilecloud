@@ -314,3 +314,15 @@ nav a.button-collapse {
 footer.page-footer {
     margin-top: 0px !important
 }
+
+
+/* override */
+
+.collection.with-header .collection-item.avatar {
+    padding-left: 92px !important;
+}
+
+.circle-avatar {
+    width: 62px !important;
+    height: 62px !important;
+}
